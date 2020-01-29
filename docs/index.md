@@ -1,1 +1,1 @@
-<img src="images/H-Ghanem-Family-Photo.jpg" />
+![](images/H-Ghanem-Family-Photo.jpg)
