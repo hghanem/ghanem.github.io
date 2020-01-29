@@ -1,11 +1,10 @@
 <html>
 
 <head>
-<title>My Github Web Pages site</>
-</head
+<title>My Github Web Pages site </title>
+</head>
   <body>
-  
-  <image src="H Ghanem Family Photo.jpg" />
+  <img src="H Ghanem Family Photo.jpg" />
   </body>
   
 </html>
