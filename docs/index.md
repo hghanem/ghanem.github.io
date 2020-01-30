@@ -1,1 +1,1 @@
-![](images/H-Ghanem-Family-Photo.jpg)
+![My Family](images/H-Ghanem-Family-Photo.jpg)
